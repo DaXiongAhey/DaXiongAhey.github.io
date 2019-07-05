@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daxiongahey.github.io/"/>
-  <updated>2019-07-05T13:52:58.711Z</updated>
+  <updated>2019-07-05T13:56:13.360Z</updated>
   <id>https://daxiongahey.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://daxiongahey.github.io/2019/07/03/%E5%A6%82%E4%BD%95%E5%9C%A8GitHubPage%E4%B8%8A%E6%90%AD%E5%BB%BAHEXO%E5%8D%9A%E5%AE%A2/"/>
     <id>https://daxiongahey.github.io/2019/07/03/如何在GitHubPage上搭建HEXO博客/</id>
     <published>2019-07-03T13:58:02.000Z</published>
-    <updated>2019-07-05T13:52:58.711Z</updated>
+    <updated>2019-07-05T13:56:13.360Z</updated>
     
     <content type="html"><![CDATA[<p>每一个人都有自己搭建一个博客的想法，但是要自己编写博客前端后端+服务器太过于麻烦，特别是服务器也是一笔不少的开支。GitHub提供了GitHub Page，其空间完全可以容纳一个博客，并且运用HEXO框架可以尽可能少的占用空间。因为HEXO是静态博客，所以只需要交给GitHub托管就行，并不需要服务器来运算动态部分。</p><p>##如何在在Github Page上部署博客</p><p>###开通GitHub Page</p>]]></content>
     
